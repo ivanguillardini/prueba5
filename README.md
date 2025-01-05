@@ -1,5 +1,5 @@
 
-# Problema del día 5, Validación del Orden de las Actulizaciones del manuela de seguridad para el trineo
+# Problema del día 5, Validación del Orden de las Actulizaciones del manual de seguridad para el trineo
 
 ## Descripción del problema
 
